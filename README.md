@@ -57,6 +57,7 @@ Relationships were predominantly one-to-many, ensuring an efficient structure fo
 ---
 ## Visualization
 ![](KrakenKoffeeInfographic.JPG)
+
 The infographic consists of a **single interactive Power BI page** divided into the following sections:
 ### 1. Key DAX Measures
 ![](KrakenKoffeeInfographicPage1.JPG)
